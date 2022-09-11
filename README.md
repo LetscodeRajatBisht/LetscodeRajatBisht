@@ -5,7 +5,7 @@ ________________________________________________________________________________
 I am currently a graduate student at UMBC pursuing a Masters in Professional Studies, Cybersecurity. Learning about technology and how businesses collect and utilize and safe its data to keep developing is my passion.
 
 
-Working with cross-functional teams for more than 3 years, my job has always involved working along with a variety of stakeholders towards a common goal of security. I have worked in Security Operation Center and GRC team, and I'm growing my passion towards Vulnerability management. I also took the responsibility to fine-tune and deployed multiple security use cases top remove false positive alerts which provided clients with efficient work.  
+Working with cross-functional teams for more than 3 years, my job has always involved working along with a variety of stakeholders towards a common goal of security. I have worked in Security Operation Center and GRC team, and I'm growing my passion towards Vulnerability management. I have fine-tune and deployed multiple security use cases to remove false positive alerts for the team's internal purpose which helped us to provide clients with efficient work.
 
 
 Skills:
