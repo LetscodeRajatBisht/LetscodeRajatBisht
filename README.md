@@ -14,7 +14,7 @@ Tools:	Splunk, CrowdStrike Falcon, Microsoft Defender, Wireshark, Palo-Alto Fire
 
 
 
-- 🔭 I’m currently working on Python and ML projects
+- 🔭 I’m currently working on Python
 - 🌱 I’m currently learning Ethical Hacking
 
 
