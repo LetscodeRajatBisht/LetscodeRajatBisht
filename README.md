@@ -2,10 +2,10 @@
 
 My Name is Rajat Bisht
 ____________________________________________________________________________________________________________________
-I am currently a graduate student at UMBC pursuing a Masters in Professional Studies, Cybersecurity. Learning about technology and how businesses collect and utilize and safe its data to keep developing is my passion.
+I have a masters in Cybersecurity. Learning about technology and how businesses collect and utilize and safe its data to keep developing is my passion.
 
 
-Working with cross-functional teams for more than 4 years, my job has always involved working along with a variety of stakeholders towards a common goal of security. I have worked in Security Operation Center, GRC and Vulnerbility Management team.
+I have 5 years work experience in Cybersecurity Domain, my job has always involved working along with a variety of stakeholders towards a common goal of security. I have worked as a Security Operation Center Analyst and GRC analyst.
 
 
 Skills:
