@@ -18,8 +18,3 @@ Tools:	Splunk, CrowdStrike Falcon, Microsoft Defender, Wireshark, Palo-Alto Fire
 - 🌱 I’m currently learning Ethical Hacking
 
 
- - 📫 How to reach me:
- 
- 	-Phone: +1-443-631-8663
- 
-	-Email: rajatbisht1196@gmail.com
